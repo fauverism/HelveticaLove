@@ -26,7 +26,7 @@
 
 	<!-- Task style. This section defines the styles that are applied to task lines. -->
 	<color id="task" extendsColorID="foreground" />
-	<font id="task" extendsFontID="base" size="12" />
+	<font id="task" extendsFontID="base" size="14" />
 	<characterStyle id="task" fontID="task" foregroundColorID="task" />
 	<entryRule matchesQuery="type = task" lineCharacterStyleID="task" paragraphStyleID="base" />
 
